@@ -1,6 +1,6 @@
-#  My first step in Git
+#  HEAD -- ## это голова.
 ---
-##  My name is Zhenya
+#Commit -- ## это всему голова.  
 что писать  
 **придумаю позже.<br>**
 _Now experement_
