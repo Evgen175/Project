@@ -1,2 +1,4 @@
-Привет Git whot is this
+Привет Git What is this
 Ну а теперь!
+
+Добавил что то
